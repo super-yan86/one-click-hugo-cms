@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: 很棒的小姐姐，有爱心
+subtitle: 边看小姐姐边刷礼物
+image: img/4.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: 什么是二次元？
+  text: 二次元简介（二次元是适合所有妹子的可爱动漫）。。。。。此处省略50字！
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: 我们提供什么？
+  text: 二次元小姐姐温柔接待。。。。。
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: 我们出售直接来自独立农民和农场合作社的绿色和烘焙咖啡豆。我们很自豪地提供各种咖啡豆，它们对环境和当地社区都非常重视。查看我们的帖子或直接与我们联系以获取最新信息。
+  - image: /img/illustrations-coffee-gear.svg
+    text: 我们为每个口味和经验水平的用户提供少量但精心策划的酿造设备和工具。无论您是自己烘焙咖啡豆还是刚购买第一台法国压榨机，您都可以在我们的商店中找到喜欢的小工具。
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: 我们的价值
+  text: 咖啡是人类文化中不可思议的一部分，但它也具有阴暗面-一种殖民主义以及对自然资源和人类生活的盲目滥用。我们想扭转这一局面，使咖啡贸易恢复到饮料令人振奋，赋予人心和统一的性质。
 ---
-
